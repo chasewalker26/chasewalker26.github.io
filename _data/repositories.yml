@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - chasewalker26
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - chasewalker26/LLM-Attribution-Graphs
+  - chasewalker26/Image-Classification-XAI
+  - chasewalker26/MDA-Metric-Driven-Attributions-for-ViT
+  - chasewalker26/Magnitude-Aligned-Scoring
+  - chasewalker26/InFlow-ViT-Explanation
+  - chasewalker26/Integrated-Decision-Gradients
+  - chasewalker26/Attention-Perturbation-Metrics
+  - chasewalker26/adversarial-attack-detection
