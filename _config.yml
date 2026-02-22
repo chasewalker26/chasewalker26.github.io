@@ -142,6 +142,8 @@ collections:
     defaults:
       layout: post
     output: true
+  posts:
+    output: true
   projects:
     output: true
 
