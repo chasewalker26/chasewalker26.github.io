@@ -30,17 +30,17 @@ back_to_top: true # set to false to disable the back to top button
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+# repo_trophies:
+#   enabled: true
+#   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
+#   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
-# External service URLs for repository page
-# To use a different instance or service for displaying GitHub stats and trophies,
-# update these URLs. These are used in the repository templates.
-external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
-  github_profile_trophy_url: https://github-profile-trophy.vercel.app
+# # External service URLs for repository page
+# # To use a different instance or service for displaying GitHub stats and trophies,
+# # update these URLs. These are used in the repository templates.
+# external_services:
+#   github_readme_stats_url: https://github-readme-stats.vercel.app
+#   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -90,8 +90,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: What am I thinking about? # blog_name will be displayed in your blog page
+blog_description: A place for things that are on my mind. # blog_description will be displayed in your blog page 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -106,7 +106,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # chasewalker26/chasewalker26.github.io
+  repo: chasewalker26/chasewalker26.github.io
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -123,21 +123,6 @@ giscus:
 disqus_shortname: chasewalker # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-# # External sources.
-# # If you have blog posts published on medium.com or other external sources,
-# # you can display them in your blog by adding a link to the RSS feed.
-# # Optional: Set default categories and tags for posts from each source.
-# external_sources:
-#   - name: medium.com
-#     rss_url: https://medium.com/@al-folio/feed
-#     categories: [external-posts]
-#     tags: [medium]
-#   - name: Google Blog
-#     posts:
-#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-#         published_date: 2024-05-14
-#     categories: [external-posts]
-#     tags: [google]
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -153,16 +138,12 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
   projects:
     output: true
-  # teachings:
-  #   output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
