@@ -6,183 +6,245 @@ cv:
   image: ""
   summary: Research Scientist in Explainable AI specializing in attribution methods and faithfulness metrics for vision, language, and multimodal transformers. Author of 7 peer-reviewed publications at AAAI, ICLR, IJCAI, and AISTATS, with state-of-the-art contributions to attribution methods and metrics, robustness, and out-of-distribution detection. My work emphasizes principled, quantitative evaluation and reproducible research, alongside mentoring and open research software development
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: chasewalker26
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: chasewalker26
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: University of Florida
+        location: Gainesville, FL
+        url: https://www.ufl.edu/
+        area: Comnputer Engineering
+        studyType: Doctor of Philosophy
+        start_date: 2024
+        end_date: Anticipated August 2026
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Dean’s Research Award.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Central Florida
+        location: Orlando, FL
+        area: Comnputer Engineering
+        studyType: Master's of Science
+        start_date: 2022
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Graduate Dean’s Fellowship.
+          - Graduate Presentation Fellowship.
+          - Alireza Seyedi Innovation Endowed Scholarship (2023)
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: University of Central Florida
+        location: Orlando, FL
+        area: Comnputer Engineering
+        studyType: Bachelor's of Science
+        start_date: 2018
+        end_date: 2022
         highlights:
-          - Relativity
-          - Description 2.
+          - Burnett Honors College
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+    Researcg Experience:
+      - company: AI and Computing Lab
+        position: Graduate Research Assistant 
+        advisor: Dr. Rickard Ewetz
+        location: Gainesville, FL
+        start_date: 2024
+        end_date: Present
+        summary: Conduct research in Explainable AI (XAI), developing attribution methods and evaluation metrics for deep neural networks with applications in adversarial robustness and out-of-distribution detection for high-stakes deployments.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Developed Metric-Driven Attributions (MDA) framework outperforming 7 ViT attribution methods by 12% across 12 metrics on ImageNet, establishing state-of-the-art in transformer interpretability (ICLR 2025)."
+          - "Developed attribution graphs to enable an understanding of how causal information propagates from an LLM prompt to its generation, improving faithfulness on SOTA LLMs by 20% on average (Preprint 2025)."
+          - "Pioneered Magnitude Aligned Scoring (MAS) XAI evaluation benchmark 4x more sensitive to attribution changes, 2x more consistent, 1.6x more baseline-invariant than existing metrics (IJCAI 2024)."
+          - "Designed Integrated Decision Gradients (IDG), a novel path-based attribution to address gradient saturation in deep networks, achieving state-of-the-art performance (AAAI 2024)."
+          - "Created InFlow, an information flow-based explanation framework for ViTs outperforming 6 attribution methods by up to 18% in eight metrics (AISTATS 2025)."
+          - "Developed attribution-based adversarial detection system achieving 99% accuracy classifying pixel and patch attacks in CNNs trained on ImageNet; supported by DARPA (MILCOM 2023)."
+          - 'Invited talk: "Towards Effective XAI of Modern Models". Prince of Songkla University, Thailand (2024).'
+          - "Best Poster Award: 2025 Nelms IoT Conference."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    Industry Experience:
+      - company: Avanade/Accenture
+        position: Back-End Developer Intern
+        location: Remote
+        start_date: May 2021
+        end_date: August 2021
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Contributed to 10-person development team building enterprise CRM system for field service management.
+          - Architected and deployed CI/CD pipeline using Azure DevOps, reducing deployment time and increasing release reliability for client-facing applications.
+          - Automated business workflows using Power Automate and Azure services, eliminating weekly manual processing and improving customer response time.
 
-    Awards:
-      - title: Nobel Prize in Physics
+      - company: Limbitless Solutions
+        position: Full Stack Developer & Electrical Engineering Intern
+        location: Orlando, FL
+        start_date: Jan 2019
+        end_date: May 2021
+        highlights:
+          - Built website from design mockups as sole developer (Bootstrap/HTML/CSS/JS), serving as primary platform for donor outreach and patient enrollment; 80\% of code remains in production after 7+ years.
+          - Built internal project and people management tools as sole developer, streamlining workflow coordination for 30+ person engineering team.
+          - Designed custom HCI PCBs enabling gamified learning for prosthesis control.
+          - Conducted human-subjects studies validating user experience improvements for pediatric patients.
+
+    Mentorship and Service:
+      - highlights:
+        - "Mentored 12 undergraduate researchers; outcomes include 3 honors theses and 2 graduate admissions."
+        - "Reviewed for ICLR, ICML, IJCAI, CVPR, ECCV, and JMLR."
+        - "Volunteered for the 2024 and 2025 Nelms IoT Conferences."
+
+    Refereed Conference Publications:
+      - title: "Metric-Driven Attributions for Vision Transformers"
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - Chase Walker
+          - Sumit Jha
+          - Rickard Ewetz
+        publisher: ICLR
+        releaseDate: 2025
+        url: "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4e21153e79aff242492146d78d09fcdb-Abstract-Conference.html"
 
-      - title: Max Planck Medal
+      - title: "Explaining ViTs Using Information Flow"
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Chase Walker
+          - Md. Rubel Ahmed
+          - Sumit Jha
+          - Rickard Ewetz
+        publisher: AISTATS
+        releaseDate: 2025
+        url: "https://proceedings.mlr.press/v258/walker25a.html"
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Detecting and Removing Adversarial Patches using Frequency Signatures"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Dominic Simon
+          - Chase Walker
+          - Sumit Jha
+          - Rickard Ewetz
+        publisher: IJCNN
+        releaseDate: 2025
+        url: "https://ieeexplore.ieee.org/abstract/document/11227422"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Out-of-Distribution Detection for Contrastive Models using Angular Distance Measures"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - M Shifat Hossain
+          - Sumit Jha
+          - Chase Walker
+          - Rickard Ewetz
+        publisher: ICMLA
+        releaseDate: 2024
+        url: "https://ieeexplore.ieee.org/abstract/document/10903420"
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Attribution Quality Metrics with Magnitude Alignment"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Chase Walker
+          - Dominic Simon
+          - Kenny Chen
+          - Rickard Ewetz
+        publisher: IJCAI
+        releaseDate: 2024
+        url: "https://www.ijcai.org/proceedings/2024/59"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Integrated Decision Gradients: Compute Your Attributions Where the Model Makes Its Decision"
+        authors:
+          - Chase Walker
+          - Kenny Chen
+          - Sumit Jha
+          - Rickard Ewetz
+        publisher: AAAI
+        releaseDate: 2024
+        url: "https://ojs.aaai.org/index.php/AAAI/article/view/28336"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: "Adversarial Pixel and Patch Detection Using Attribution Analysis"
+        authors:
+          - Chase Walker
+          - Dominic Simon
+          - Sumit Jha
+          - Rickard Ewetz
+        publisher: MILCOM
+        releaseDate: 2023
+        url: "https://ieeexplore.ieee.org/document/10356375"
 
-      - name: English
-        summary: "Fluent"
+    Confernce Publications Under Review:
+      - title: "Explaining the Reasoning of Large Language Models Using Attribution Graphs"
+        authors:
+          - Chase Walker
+          - Rickard Ewetz
+        publisher: Under Review (Preprint Available)
+        releaseDate: 2025
+        url: "https://arxiv.org/abs/2512.15663"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Verifiable Natural Language to Linear Temporal Logic Translation: A Benchmark Dataset and Evaluation Suite"
+        authors:
+          - William English
+          - Chase Walker
+          - Dominic Simon
+          - Sumit Kumar Jha
+          - Rickard Ewetz
+        publisher: Under Review (Preprint Available)
+        releaseDate: 2025
+        url: "https://arxiv.org/abs/2507.00877"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - title: "Grounding Natural Language into Formal System Signatures for Temporal Logical Translation"
+        authors:
+          - William English
+          - Chase Walker
+          - Dominic Simon
+          - Rickard Ewetz
+        publisher: Under Review (Preprint Available)
+        releaseDate: 2025
+        url: "https://arxiv.org/abs/2512.16770"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - title: "Question Decomposition using Masked Language Modeling for Knowledge Editing"
+        authors:
+          - Dominic Simon
+          - Chase Walker
+          - William English
+          - Rickard Ewetz
+        publisher: Under Review
+        releaseDate: 2025
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: "Are VLMs 3D-Aware? A Study of Scene Generation via Structured Tokenization"
+        authors:
+          - Atandra Mahalder
+          - Chase Walker
+          - Sumit Jha
+          - Rickard Ewetz
+        publisher: Under Review
+        releaseDate: 2025
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Journal Publications Under Review:
+      - title: "Explainable AI in Image Classification: A Comprehensive Survey of Attribution Methods and Metrics"
+        authors:
+          - Chase Walker
+          - Rickard Ewetz
+        publisher: Under Review
+        releaseDate: 2025
+
+      - title: "Rethinking Attribution Quality Metrics for Vision Transformers"
+        authors:
+          - Chase Walker
+          - Sumit Jha
+          - Rickard Ewetz
+        publisher: Under Review
+        releaseDate: 2025
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Rickard Ewetz
+        position: Associate Professor
+        affiliation:  University of Florida
+        relationship: Dr. Rickard Ewetz is my PhD advisor.
+        email: rickard.ewetz@ufl.edu
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Sumit Jha
+        position: Professor
+        affiliation:  University of Florida
+        relationship: Dr. Sumit Jha has been a frequent collaborator and co-author thoughout my PhD.
+        email: sumit.jha@ufl.edu
+
+      - name: Dr. Albert Manero
+        position: Executive Director
+        affiliation:  Limbitless Solutions
+        relationship: Dr. Albert Manero was the head supervisor during my internship at Limbitless Solutions. 
+        email: albert@limbitless-solutions.org
+
+      - name: John Sparkman
+        position: Director, Head of Research and Development of Technology
+        affiliation:  Limbitless Solutions
+        relationship: John Sparkman was my primary supervisor during my internship at Limbitless Solutions. 
+        email: john.sparkman@limbitless-solutions.org
