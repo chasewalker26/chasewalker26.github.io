@@ -407,21 +407,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "news-does-this-show-up-before-announcement-1",
+          title: 'Does this show up before announcement_1?',
           description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-have-passed-my-phd-proposal-and-entered-candidacy-my-thesis-proposal-is-titled-towards-trustworthy-ai-methods-and-metrics-for-explaining-ai-decision-making-using-attributions-i-look-forward-to-the-next-year-of-hard-work-on-track-towards-graduation-and-successful-defense",
+          title: 'I have passed my PhD proposal and entered candidacy! My thesis proposal is...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
