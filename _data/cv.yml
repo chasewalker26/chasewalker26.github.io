@@ -60,6 +60,9 @@ cv:
           - "Developed attribution-based adversarial detection system achieving 99% accuracy classifying pixel and patch attacks in CNNs trained on ImageNet; supported by DARPA (MILCOM 2023)."
           - 'Invited talk: "Towards Effective XAI of Modern Models". Prince of Songkla University, Thailand (2024).'
           - "Best Poster Award: 2025 Nelms IoT Conference."
+          - "Mentored 12 undergraduate researchers; outcomes include 3 honors theses and 2 graduate admissions."
+          - "Reviewed for ICLR, ICML, IJCAI, CVPR, ECCV, and JMLR."
+          - "Volunteered for the 2024 and 2025 Nelms IoT Conferences."
 
       - company: Avanade/Accenture
         position: Back-End Developer Intern
@@ -81,12 +84,6 @@ cv:
           - Built internal project and people management tools as sole developer, streamlining workflow coordination for 30+ person engineering team.
           - Designed custom HCI PCBs enabling gamified learning for prosthesis control.
           - Conducted human-subjects studies validating user experience improvements for pediatric patients.
-
-    Volunteer:
-      - highlights:
-        - "Mentored 12 undergraduate researchers; outcomes include 3 honors theses and 2 graduate admissions."
-        - "Reviewed for ICLR, ICML, IJCAI, CVPR, ECCV, and JMLR."
-        - "Volunteered for the 2024 and 2025 Nelms IoT Conferences."
 
     Publications:
       - title: "Metric-Driven Attributions for Vision Transformers"
