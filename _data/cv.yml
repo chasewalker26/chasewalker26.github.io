@@ -49,7 +49,7 @@ cv:
         advisor: Dr. Rickard Ewetz
         location: Gainesville, FL
         start_date: 2024
-        end_date: Present
+        end_date: "present"
         summary: Conduct research in Explainable AI (XAI), developing attribution methods and evaluation metrics for deep neural networks with applications in adversarial robustness and out-of-distribution detection for high-stakes deployments.
         highlights:
           - "Developed Metric-Driven Attributions (MDA) framework outperforming 7 ViT attribution methods by 12% across 12 metrics on ImageNet, establishing state-of-the-art in transformer interpretability (ICLR 2025)."
@@ -64,8 +64,8 @@ cv:
       - company: Avanade/Accenture
         position: Back-End Developer Intern
         location: Remote
-        start_date: May 2021
-        end_date: August 2021
+        start_date: 2021-05-01
+        end_date: 2021-08-01
         highlights:
           - Contributed to 10-person development team building enterprise CRM system for field service management.
           - Architected and deployed CI/CD pipeline using Azure DevOps, reducing deployment time and increasing release reliability for client-facing applications.
@@ -74,8 +74,8 @@ cv:
       - company: Limbitless Solutions
         position: Full Stack Developer & Electrical Engineering Intern
         location: Orlando, FL
-        start_date: Jan 2019
-        end_date: May 2021
+        start_date: 2019-01-01
+        end_date: 2021-05-01
         highlights:
           - Built website from design mockups as sole developer (Bootstrap/HTML/CSS/JS), serving as primary platform for donor outreach and patient enrollment; 80\% of code remains in production after 7+ years.
           - Built internal project and people management tools as sole developer, streamlining workflow coordination for 30+ person engineering team.
