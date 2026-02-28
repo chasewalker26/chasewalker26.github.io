@@ -20,8 +20,8 @@ cv:
         start_date: 2024
         end_date: 2026
         highlights:
-          - Expected Graduation in August of 2026.
-          - Dean’s Research Award.
+          - Expected Graduation in August of 2026
+          - Dean’s Research Award
 
       - institution: University of Central Florida
         location: Orlando, FL
@@ -30,9 +30,9 @@ cv:
         start_date: 2022
         end_date: 2024
         highlights:
-          - Graduate Dean’s Fellowship.
-          - Graduate Presentation Fellowship.
-          - Alireza Seyedi Innovation Endowed Scholarship (2023)
+          - Graduate Dean’s Fellowship
+          - Graduate Presentation Fellowship
+          - Alireza Seyedi Innovation Endowed Scholarship
 
       - institution: University of Central Florida
         location: Orlando, FL
@@ -41,7 +41,7 @@ cv:
         start_date: 2018
         end_date: 2022
         highlights:
-          - Burnett Honors College Graduate.
+          - Burnett Honors College Graduate
 
     Experience:
       - company: AI and Computing Lab
@@ -92,7 +92,7 @@ cv:
           - Sumit Jha
           - Rickard Ewetz
         publisher: ICLR
-        releaseDate: 2025
+        releaseDate: "2025"
         url: "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4e21153e79aff242492146d78d09fcdb-Abstract-Conference.html"
 
       - title: "Explaining ViTs Using Information Flow"
@@ -102,7 +102,7 @@ cv:
           - Sumit Jha
           - Rickard Ewetz
         publisher: AISTATS
-        releaseDate: 2025
+        releaseDate: "2025"
         url: "https://proceedings.mlr.press/v258/walker25a.html"
 
       - title: "Detecting and Removing Adversarial Patches using Frequency Signatures"
@@ -112,7 +112,7 @@ cv:
           - Sumit Jha
           - Rickard Ewetz
         publisher: IJCNN
-        releaseDate: 2025
+        releaseDate: "2025"
         url: "https://ieeexplore.ieee.org/abstract/document/11227422"
 
       - title: "Out-of-Distribution Detection for Contrastive Models using Angular Distance Measures"
@@ -122,7 +122,7 @@ cv:
           - Chase Walker
           - Rickard Ewetz
         publisher: ICMLA
-        releaseDate: 2024
+        releaseDate: "2024"
         url: "https://ieeexplore.ieee.org/abstract/document/10903420"
 
       - title: "Attribution Quality Metrics with Magnitude Alignment"
@@ -132,7 +132,7 @@ cv:
           - Kenny Chen
           - Rickard Ewetz
         publisher: IJCAI
-        releaseDate: 2024
+        releaseDate: "2024"
         url: "https://www.ijcai.org/proceedings/2024/59"
 
       - title: "Integrated Decision Gradients: Compute Your Attributions Where the Model Makes Its Decision"
@@ -142,7 +142,7 @@ cv:
           - Sumit Jha
           - Rickard Ewetz
         publisher: AAAI
-        releaseDate: 2024
+        releaseDate: "2024"
         url: "https://ojs.aaai.org/index.php/AAAI/article/view/28336"
 
       - title: "Adversarial Pixel and Patch Detection Using Attribution Analysis"
@@ -152,7 +152,7 @@ cv:
           - Sumit Jha
           - Rickard Ewetz
         publisher: MILCOM
-        releaseDate: 2023
+        releaseDate: "2023"
         url: "https://ieeexplore.ieee.org/document/10356375"
 
       - title: "Explaining the Reasoning of Large Language Models Using Attribution Graphs"
@@ -160,7 +160,7 @@ cv:
           - Chase Walker
           - Rickard Ewetz
         publisher: Conference Paper Under Review (Preprint Available)
-        releaseDate: 2025
+        releaseDate: "2025"
         url: "https://arxiv.org/abs/2512.15663"
 
       - title: "Verifiable Natural Language to Linear Temporal Logic Translation: A Benchmark Dataset and Evaluation Suite"
@@ -171,7 +171,7 @@ cv:
           - Sumit Kumar Jha
           - Rickard Ewetz
         publisher: Conference Paper Under Review (Preprint Available)
-        releaseDate: 2025
+        releaseDate: "2025"
         url: "https://arxiv.org/abs/2507.00877"
 
       - title: "Grounding Natural Language into Formal System Signatures for Temporal Logical Translation"
@@ -181,7 +181,7 @@ cv:
           - Dominic Simon
           - Rickard Ewetz
         publisher: Conference Paper Under Review (Preprint Available)
-        releaseDate: 2025
+        releaseDate: "2025"
         url: "https://arxiv.org/abs/2512.16770"
 
       - title: "Question Decomposition using Masked Language Modeling for Knowledge Editing"
@@ -191,7 +191,7 @@ cv:
           - William English
           - Rickard Ewetz
         publisher: Conference Paper Under Review 
-        releaseDate: 2025
+        releaseDate: "2025"
 
       - title: "Are VLMs 3D-Aware? A Study of Scene Generation via Structured Tokenization"
         authors:
@@ -200,14 +200,14 @@ cv:
           - Sumit Jha
           - Rickard Ewetz
         publisher: Conference Paper Under Review
-        releaseDate: 2025
+        releaseDate: "2025"
 
       - title: "Explainable AI in Image Classification: A Comprehensive Survey of Attribution Methods and Metrics"
         authors:
           - Chase Walker
           - Rickard Ewetz
         publisher: Journal Paper Under Review
-        releaseDate: 2025
+        releaseDate: "2026"
 
       - title: "Rethinking Attribution Quality Metrics for Vision Transformers"
         authors:
@@ -215,7 +215,7 @@ cv:
           - Sumit Jha
           - Rickard Ewetz
         publisher: Journal Paper Under Review
-        releaseDate: 2025
+        releaseDate: "2025"
 
     References:
       - name: Dr. Rickard Ewetz
