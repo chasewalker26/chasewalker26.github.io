@@ -21,7 +21,7 @@ function determineGiscusTheme() {
     "data-repo": "chasewalker26/chasewalker26.github.io",
     "data-repo-id": "R_kgDORWP47w",
     "data-category": "Announcements",
-    "data-category-id": "",
+    "data-category-id": "DIC_kwDORWP4784C3atI",
     "data-mapping": "title",
     "data-strict": "1",
     "data-reactions-enabled": "1",
