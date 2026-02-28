@@ -15,18 +15,17 @@ cv:
     Education:
       - institution: University of Florida
         location: Gainesville, FL
-        url: https://www.ufl.edu/
-        area: Comnputer Engineering
+        area: Computer Engineering
         studyType: Doctor of Philosophy
         start_date: 2024
-        end_date: Anticipated August 2026
-        score: ""
+        end_date: 2026
         highlights:
+          - Expected Graduation in August of 2026.
           - Dean’s Research Award.
 
       - institution: University of Central Florida
         location: Orlando, FL
-        area: Comnputer Engineering
+        area: Computer Engineering
         studyType: Master's of Science
         start_date: 2022
         end_date: 2024
@@ -37,14 +36,14 @@ cv:
 
       - institution: University of Central Florida
         location: Orlando, FL
-        area: Comnputer Engineering
+        area: Computer Engineering
         studyType: Bachelor's of Science
         start_date: 2018
         end_date: 2022
         highlights:
-          - Burnett Honors College
+          - Burnett Honors College Graduate.
 
-    Researcg Experience:
+    Experience:
       - company: AI and Computing Lab
         position: Graduate Research Assistant 
         advisor: Dr. Rickard Ewetz
@@ -62,7 +61,6 @@ cv:
           - 'Invited talk: "Towards Effective XAI of Modern Models". Prince of Songkla University, Thailand (2024).'
           - "Best Poster Award: 2025 Nelms IoT Conference."
 
-    Industry Experience:
       - company: Avanade/Accenture
         position: Back-End Developer Intern
         location: Remote
@@ -84,13 +82,13 @@ cv:
           - Designed custom HCI PCBs enabling gamified learning for prosthesis control.
           - Conducted human-subjects studies validating user experience improvements for pediatric patients.
 
-    Mentorship and Service:
+    Volunteer:
       - highlights:
         - "Mentored 12 undergraduate researchers; outcomes include 3 honors theses and 2 graduate admissions."
         - "Reviewed for ICLR, ICML, IJCAI, CVPR, ECCV, and JMLR."
         - "Volunteered for the 2024 and 2025 Nelms IoT Conferences."
 
-    Refereed Conference Publications:
+    Publications:
       - title: "Metric-Driven Attributions for Vision Transformers"
         authors:
           - Chase Walker
@@ -160,12 +158,11 @@ cv:
         releaseDate: 2023
         url: "https://ieeexplore.ieee.org/document/10356375"
 
-    Confernce Publications Under Review:
       - title: "Explaining the Reasoning of Large Language Models Using Attribution Graphs"
         authors:
           - Chase Walker
           - Rickard Ewetz
-        publisher: Under Review (Preprint Available)
+        publisher: Conference Paper Under Review (Preprint Available)
         releaseDate: 2025
         url: "https://arxiv.org/abs/2512.15663"
 
@@ -176,7 +173,7 @@ cv:
           - Dominic Simon
           - Sumit Kumar Jha
           - Rickard Ewetz
-        publisher: Under Review (Preprint Available)
+        publisher: Conference Paper Under Review (Preprint Available)
         releaseDate: 2025
         url: "https://arxiv.org/abs/2507.00877"
 
@@ -186,7 +183,7 @@ cv:
           - Chase Walker
           - Dominic Simon
           - Rickard Ewetz
-        publisher: Under Review (Preprint Available)
+        publisher: Conference Paper Under Review (Preprint Available)
         releaseDate: 2025
         url: "https://arxiv.org/abs/2512.16770"
 
@@ -196,7 +193,7 @@ cv:
           - Chase Walker
           - William English
           - Rickard Ewetz
-        publisher: Under Review
+        publisher: Conference Paper Under Review 
         releaseDate: 2025
 
       - title: "Are VLMs 3D-Aware? A Study of Scene Generation via Structured Tokenization"
@@ -205,15 +202,14 @@ cv:
           - Chase Walker
           - Sumit Jha
           - Rickard Ewetz
-        publisher: Under Review
+        publisher: Conference Paper Under Review
         releaseDate: 2025
 
-    Journal Publications Under Review:
       - title: "Explainable AI in Image Classification: A Comprehensive Survey of Attribution Methods and Metrics"
         authors:
           - Chase Walker
           - Rickard Ewetz
-        publisher: Under Review
+        publisher: Journal Paper Under Review
         releaseDate: 2025
 
       - title: "Rethinking Attribution Quality Metrics for Vision Transformers"
@@ -221,30 +217,30 @@ cv:
           - Chase Walker
           - Sumit Jha
           - Rickard Ewetz
-        publisher: Under Review
+        publisher: Journal Paper Under Review
         releaseDate: 2025
 
     References:
       - name: Dr. Rickard Ewetz
         position: Associate Professor
-        affiliation:  University of Florida
-        relationship: Dr. Rickard Ewetz is my PhD advisor.
+        affiliation: University of Florida
         email: rickard.ewetz@ufl.edu
+        relationship: Dr. Rickard Ewetz is my PhD advisor.
 
       - name: Dr. Sumit Jha
         position: Professor
-        affiliation:  University of Florida
-        relationship: Dr. Sumit Jha has been a frequent collaborator and co-author thoughout my PhD.
+        affiliation: University of Florida
         email: sumit.jha@ufl.edu
+        relationship: Dr. Sumit Jha has been a frequent collaborator and co-author thoughout my PhD.
 
       - name: Dr. Albert Manero
         position: Executive Director
-        affiliation:  Limbitless Solutions
-        relationship: Dr. Albert Manero was the head supervisor during my internship at Limbitless Solutions. 
+        affiliation: Limbitless Solutions
         email: albert@limbitless-solutions.org
+        relationship: Dr. Albert Manero was the head supervisor during my internship at Limbitless Solutions. 
 
       - name: John Sparkman
         position: Director, Head of Research and Development of Technology
-        affiliation:  Limbitless Solutions
-        relationship: John Sparkman was my primary supervisor during my internship at Limbitless Solutions. 
+        affiliation: Limbitless Solutions
         email: john.sparkman@limbitless-solutions.org
+        relationship: John Sparkman was my primary supervisor during my internship at Limbitless Solutions. 
