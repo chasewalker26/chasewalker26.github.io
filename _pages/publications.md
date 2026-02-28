@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A list of my publications sorted from most to least recent. This list contains peer-reviewed papers and preprints. 
+description: A list of my publications sorted from most to least recent. This list contains peer-reviewed papers and preprints.
 nav: true
 nav_order: 2
 ---

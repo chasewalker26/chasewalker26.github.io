@@ -45,7 +45,7 @@ cv:
 
     Experience:
       - company: AI and Computing Lab
-        position: Graduate Research Assistant 
+        position: Graduate Research Assistant
         advisor: Dr. Rickard Ewetz
         location: Gainesville, FL
         start_date: 2024
@@ -190,7 +190,7 @@ cv:
           - Chase Walker
           - William English
           - Rickard Ewetz
-        publisher: Conference Paper Under Review 
+        publisher: Conference Paper Under Review
         releaseDate: "2025"
 
       - title: "Are VLMs 3D-Aware? A Study of Scene Generation via Structured Tokenization"
@@ -234,10 +234,10 @@ cv:
         position: Executive Director
         affiliation: Limbitless Solutions
         email: albert@limbitless-solutions.org
-        relationship: Dr. Albert Manero was the head supervisor during my internship at Limbitless Solutions. 
+        relationship: Dr. Albert Manero was the head supervisor during my internship at Limbitless Solutions.
 
       - name: John Sparkman
         position: Director, Head of Research and Development of Technology
         affiliation: Limbitless Solutions
         email: john.sparkman@limbitless-solutions.org
-        relationship: John Sparkman was my primary supervisor during my internship at Limbitless Solutions. 
+        relationship: John Sparkman was my primary supervisor during my internship at Limbitless Solutions.
