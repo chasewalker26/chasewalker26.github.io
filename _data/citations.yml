@@ -1,0 +1,51 @@
+metadata:
+  last_updated: '2026-03-06'
+papers:
+  j5vNNv4AAAAJ:2osOgNQ5qMEC:
+    citations: 3
+    title: Adversarial pixel and patch detection using attribution analysis
+    year: '2023'
+  j5vNNv4AAAAJ:Tyk-4Ss8FVUC:
+    citations: 1
+    title: Metric-Driven Attributions for Vision Transformers
+    year: '2025'
+  j5vNNv4AAAAJ:W7OEmFMy1HYC:
+    citations: 2
+    title: 'Verifiable Natural Language to Linear Temporal Logic Translation: A Benchmark Dataset and Evaluation Suite'
+    year: '2025'
+  j5vNNv4AAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation'
+    year: '2025'
+  j5vNNv4AAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Out-of-Distribution Detection for Contrastive Models Using Angular Distance Measures
+    year: '2024'
+  j5vNNv4AAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Question Decomposition using Masked Language Modeling for Knowledge Editing
+    year: Unknown Year
+  j5vNNv4AAAAJ:d1gkVwhDpl0C:
+    citations: 5
+    title: Attribution Quality Metrics with Magnitude Alignment
+    year: '2024'
+  j5vNNv4AAAAJ:eQOLeE2rZwMC:
+    citations: 1
+    title: Explaining the Reasoning of Large Language Models Using Attribution Graphs
+    year: '2025'
+  j5vNNv4AAAAJ:qjMakFHDy7sC:
+    citations: 25
+    title: 'Integrated decision gradients: Compute your attributions where the model makes its decision'
+    year: '2024'
+  j5vNNv4AAAAJ:u5HHmVD_uO8C:
+    citations: 0
+    title: Detecting and Removing Adversarial Patches using Frequency Signatures
+    year: '2025'
+  j5vNNv4AAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: 'Explaining Contrastive Models using Exemplars: Explanation, Confidence, and Knowledge Limits'
+    year: Unknown Year
+  j5vNNv4AAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Explaining ViTs Using Information Flow
+    year: '2025'
