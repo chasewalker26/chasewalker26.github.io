@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-20'
 papers:
   j5vNNv4AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: Metric-Driven Attributions for Vision Transformers
     year: '2025'
   j5vNNv4AAAAJ:W7OEmFMy1HYC:
-    citations: 2
+    citations: 3
     title: 'Verifiable Natural Language to Linear Temporal Logic Translation: A Benchmark Dataset and Evaluation Suite'
     year: '2025'
   j5vNNv4AAAAJ:WF5omc3nYNoC:
