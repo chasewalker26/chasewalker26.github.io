@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-22'
 papers:
   j5vNNv4AAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: Adversarial pixel and patch detection using attribution analysis
     year: '2023'
   j5vNNv4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: Metric-Driven Attributions for Vision Transformers
     year: '2025'
   j5vNNv4AAAAJ:W7OEmFMy1HYC:
