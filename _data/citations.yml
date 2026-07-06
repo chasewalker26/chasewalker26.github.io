@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-07-06'
 papers:
   j5vNNv4AAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: Adversarial pixel and patch detection using attribution analysis
     year: '2023'
   j5vNNv4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 2
+    citations: 3
     title: Metric-Driven Attributions for Vision Transformers
     year: '2025'
   j5vNNv4AAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 9
     title: 'Verifiable Natural Language to Linear Temporal Logic Translation: A Benchmark Dataset and Evaluation Suite'
     year: '2025'
   j5vNNv4AAAAJ:WF5omc3nYNoC:
@@ -30,11 +30,11 @@ papers:
     title: Attribution Quality Metrics with Magnitude Alignment
     year: '2024'
   j5vNNv4AAAAJ:eQOLeE2rZwMC:
-    citations: 1
+    citations: 3
     title: Explaining the Reasoning of Large Language Models Using Attribution Graphs
     year: '2025'
   j5vNNv4AAAAJ:qjMakFHDy7sC:
-    citations: 27
+    citations: 31
     title: 'Integrated decision gradients: Compute your attributions where the model makes its decision'
     year: '2024'
   j5vNNv4AAAAJ:u5HHmVD_uO8C:
